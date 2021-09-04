@@ -23,9 +23,9 @@ UNet 참고
 ## Image Generation
 DCGAN 참고
 <br/>
-:
+: http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html
 
 ## Image Reconstruction
-SRGan 참고
+SRGAN 참고
 <br/>
 : https://dydeeplearning.tistory.com/2
